@@ -1,0 +1,172 @@
+
+
+
+.menubtn {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: sans-serif, arial;
+  padding-left: 30px;
+}
+
+.menubtn2{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: sans-serif, arial;
+  padding-left: 30px;
+}
+
+.menubtn3{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: sans-serif, arial;
+  padding-left: 30px;
+}
+
+.menubtn4{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: sans-serif, arial;
+  padding-left: 30px;
+}
+
+.menubtn4 li{
+  color: white;
+  font-weight: bold;
+  font-size: 5px;
+  text-decoration: none;
+  font-family: arial;
+  margin-left: -38px;
+  margin-top: -5em;
+
+}
+
+.menubtn:hover{
+  color: lightblue;
+}
+
+.menubtn2:hover{
+  color: lightblue;
+}
+
+.menubtn3:hover{
+  color: lightblue;
+}
+
+.menubtn4:hover{
+  color: lightblue;
+}
+
+.menulist {
+  display: none;
+  position: absolute;
+  background-color: #669999;
+  border-radius: 4px;
+  margin-left:1%;
+  width: 6em;
+
+}
+
+.menulist li {
+  color: white;
+  font-weight: bold;
+  font-size: 5px;
+  text-decoration: none;
+  font-family: arial;
+  margin-left: -45px;
+  margin-top: -5em;
+
+}
+
+
+.menulist a {
+  padding: 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dealslist {
+  display: none;
+  position: absolute;
+  background-color: #669999;
+  border-radius: 4px;
+  margin-left: 1%;
+  width: 5em;
+
+}
+
+.dealslist li {
+  color: white;
+  font-weight: bold;
+  font-size: 5px;
+  text-decoration: none;
+  font-family: arial;
+  margin-left: -35px;
+  margin-top: -5em;
+
+}
+
+.contactlist {
+  display: none;
+  position: absolute;
+  background-color: #669999;
+  border-radius: 4px;
+  margin-left: 1.5%;
+  width: 5.5em;
+
+}
+
+.contactlist li {
+  color: white;
+  font-weight: bold;
+  font-size: 5px;
+  text-decoration: none;
+  font-family: arial;
+  margin-left: -57px;
+  margin-top: -5em;r
+
+}
+
+
+.flightlist {
+  display: none;
+  position: absolute;
+  background-color: #669999;
+  border-radius: 4px;
+  margin-left: -1%;
+  width: 5em;
+
+}
+
+.contactlist a {
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.flightlist a {
+  padding: 2px;
+  margin-right: 2em;
+  text-decoration: none;
+  display: block;
+}
+
+.dealslist a {
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.displayopt {display: block;}
+
+.displaylist {display: block;}
+
+.displaycontact {display: block;}
+.displayflight {display: block;}

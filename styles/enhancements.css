@@ -1,0 +1,265 @@
+/*Filename: Css style/layout html web pages
+  Author: Andrea Espitia
+  Created: 26 March 2021
+  Last modified: 28 March 2021
+  Description: Style enhacements index.html, product.html, enquire.html, about.html.
+  */
+
+/*input ask box on footer. Improves user experience as enable the company to deal with specific queries that customers may have*/
+
+#contact {
+  padding: .2em 0 .2em 1em;
+  background-color: white;
+  margin-top: 8em;
+}
+.askhub {
+  float: right;
+  margin-right: 4em;
+  margin-top: -8em;
+}
+.askbox {
+  width: 30em;
+  margin-top: 1em;
+  padding: 10px;
+}
+
+/*Tooltip showing extra information about the specific time of selected unit*/
+
+.COS4 {
+  position: relative;
+}
+.COS4 .tooltiptext{
+  position: absolute;
+  bottom: 7%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS4:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS2 {
+  position: relative;
+}
+.COS2 .tooltiptext{
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS2:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS2 {
+  position: relative;
+}
+.COS2 .tooltiptext{
+  position: absolute;
+  bottom: 4%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS2:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS2 {
+  position: relative;
+}
+.COS2 .tooltiptext2{
+  position: absolute;
+  bottom: 0.4%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS2:hover .tooltiptext2 {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS1 {
+  position: relative;
+}
+.COS1 .tooltiptext{
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS1:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS3 {
+  position: relative;
+}
+.COS3 .tooltiptext{
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS3:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS1 {
+  position: relative;
+}
+.COS1 .tooltiptext2{
+  position: absolute;
+  bottom: -30%;
+  left: 50%;
+  margin-left: -40px;
+  visibility: hidden;
+  width: 80px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 11px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS1:hover .tooltiptext2 {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS3 {
+  position: relative;
+}
+.COS3 .tooltiptext2{
+  position: absolute;
+  bottom: 15%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS3:hover .tooltiptext2 {
+  visibility: visible;
+  opacity: 1;
+}
+.COS2 {
+  position: relative;
+}
+.COS2 .tooltiptext3{
+  position: absolute;
+  bottom: 12%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 2px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS2:hover .tooltiptext3 {
+  visibility: visible;
+  opacity: 1;
+}
+
+.COS4 {
+  position: relative;
+}
+.COS4 .tooltiptext2{
+  position: absolute;
+  bottom: 7%;
+  left: 50%;
+  margin-left: -50px;
+  visibility: hidden;
+  width: 100px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px 0;
+  border-radius: 4px;
+  opacity: 2;
+  transition: opacity 0.3s;
+}
+.COS4:hover .tooltiptext2 {
+  visibility: visible;
+  opacity: 1;
+}

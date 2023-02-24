@@ -1,0 +1,46 @@
+/*Filename: Css style/layout html web pages
+  Author: Andrea Espitia
+  Created: 23 March 2021
+  Last modified: 23 March 2021
+  Description: Style index.html, product.html, enquire.html, about.html.
+  */
+
+
+
+/*Manage styling*/
+
+#section1m, #section2m, #section3m {
+  float: left;
+  width: 30%;
+  padding: 5px;
+  padding-left: 15px;
+  margin: 2em 0 1em 1em;
+  text-align: left;
+
+}
+
+#manage {
+  float: right;
+  margin: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+#managelist {
+  font-size: 18px;
+}
+
+#section4m {
+  clear: both;
+}
+
+#confirmation {
+  width: 50%;
+  clear: both;
+  margin-top: 2em;
+  margin-left: 1em;
+}
+#confirm1 {
+  float: right;
+  margin-top: -38%;
+  margin-right: 5%;
+}
